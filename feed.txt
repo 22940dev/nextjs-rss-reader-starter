@@ -1,3 +1,4 @@
 https://www.a11yproject.com/feed/feed.xml
 https://webaim.org/blog/feed/
 http://www.webaxe.org/feed/
+https://blog.jessfraz.com/index.xml
