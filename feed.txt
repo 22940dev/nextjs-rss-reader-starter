@@ -1,5 +1,4 @@
-https://www.a11yproject.com/feed/feed
+
 https://webaim.org/blog/feed/
 http://www.webaxe.org/feed/
-https://blog.jessfraz.com/index
-http://www.hongkiat.com/blog/
+
